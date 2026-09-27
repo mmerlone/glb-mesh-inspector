@@ -1,0 +1,6 @@
+{
+  "name": "GLB Mesh Inspector",
+  "description": "Upload, view, and inspect the individual meshes of a 3D model from a GLB file. Toggle the visibility of each component to analyze the model's structure.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
